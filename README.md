@@ -1,4 +1,4 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Contact: Wei lei
 
 # Scientific workflow GitHub workshop
 
